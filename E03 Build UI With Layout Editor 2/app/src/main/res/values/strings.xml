@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">E03 Build UI With Layout Editor 2</string>
+    <string name="firstname">Firstname</string>
+    <string name="lastname">Lastname</string>
+    <string name="jobtitle">Jobtitle</string>
+    <string name="employee_information_text_here">Employee information text here...</string>
+    <string name="employee_image">Employee image</string>
+    <string name="employee_info_text">%1$s %2$s %3$s</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="basic_text">is simply dummy text of the printing and typesetting industry. Embark on a journey through the bustling realm of a dedicated professional. In the intricate tapestry of daily tasks, weaving accomplishments and overcoming challenges becomes an art. From strategic planning to executing projects with finesse, each day is a canvas where innovation meets diligence. Join me as we navigate the intricate landscape of deadlines, collaborate with colleagues, and craft solutions that make a lasting impact. Together, we will delve into the diverse realms of problem-solving, creativity, and sculpting a narrative that defines the essence of professional excellence. Here is to the tireless pursuit of goals, the thrill of achievement, and the unwavering commitment to making a difference in the professional sphere.</string>
+</resources>

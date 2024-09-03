@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">E05 Launch a Map</string>
+    <string name="input_field_description">Provide latitude and longitude in below text fields to open map at that location</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="label">Label</string>
+    <string name="open_map">Open In Map</string>
+</resources>

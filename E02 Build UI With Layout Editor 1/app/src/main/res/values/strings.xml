@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">E02 Build UI With Layout Editor 1</string>
+    <string name="text_top_left">Top Left</string>
+    <string name="text_top_right">Top Right</string>
+    <string name="text_bottom_left">Bottom Left</string>
+    <string name="text_bottom_right">Bottom Right</string>
+    <string name="text_above_image">Hello Menom! I am Android!</string>
+</resources>
